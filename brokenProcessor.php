@@ -1,5 +1,7 @@
 <?php
 
+klasdf;
+
 $comment = $_REQUEST['comment']
 
 $filepath = __DIR__ . '/comments/';
