@@ -1,6 +1,6 @@
 <?php
 
-$comment = $_REQUEST['comment']
+$comment = $_REQUEST['comment'];
 
 $filepath = __DIR__ . '/comments/';
 
